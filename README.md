@@ -2,8 +2,6 @@
 
 Complete Job Portal made with MERN stack.
 
-## Installations
-
 ### Node
 
 ### MongoDB
@@ -26,9 +24,6 @@ create-react-app name_of_app
 ```
 npm start
 ```
-
-
-
 
 * Run Express Backend:
 ```
